@@ -24,7 +24,7 @@ class TrafficLightDataSet(Dataset):
     SEQ = 'seq'
     COLOR = 'color'
     LABEL = 'label'
-    IMAGE_PATH = 'image_path'
+    IMAGE_PATH = 'original_path'
     IMAGE = 'image'
     PREDS = 'preds'
     SCORE = 'score'  # Not really used by this class
